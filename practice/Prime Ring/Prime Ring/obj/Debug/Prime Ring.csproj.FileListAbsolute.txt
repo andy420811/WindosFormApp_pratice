@@ -1,0 +1,7 @@
+C:\Users\user\Documents\NCKU\是窗程式\c#\Prime Ring\Prime Ring\bin\Debug\Prime Ring.exe.config
+C:\Users\user\Documents\NCKU\是窗程式\c#\Prime Ring\Prime Ring\bin\Debug\Prime Ring.exe
+C:\Users\user\Documents\NCKU\是窗程式\c#\Prime Ring\Prime Ring\bin\Debug\Prime Ring.pdb
+C:\Users\user\Documents\NCKU\是窗程式\c#\Prime Ring\Prime Ring\obj\Debug\Prime Ring.csprojAssemblyReference.cache
+C:\Users\user\Documents\NCKU\是窗程式\c#\Prime Ring\Prime Ring\obj\Debug\Prime Ring.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\NCKU\是窗程式\c#\Prime Ring\Prime Ring\obj\Debug\Prime Ring.exe
+C:\Users\user\Documents\NCKU\是窗程式\c#\Prime Ring\Prime Ring\obj\Debug\Prime Ring.pdb

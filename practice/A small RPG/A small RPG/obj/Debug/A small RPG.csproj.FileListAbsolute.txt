@@ -1,0 +1,10 @@
+C:\Users\user\Documents\NCKU\是窗程式\c#\A small RPG\A small RPG\bin\Debug\A small RPG.exe.config
+C:\Users\user\Documents\NCKU\是窗程式\c#\A small RPG\A small RPG\bin\Debug\A small RPG.exe
+C:\Users\user\Documents\NCKU\是窗程式\c#\A small RPG\A small RPG\bin\Debug\A small RPG.pdb
+C:\Users\user\Documents\NCKU\是窗程式\c#\A small RPG\A small RPG\obj\Debug\A small RPG.csprojAssemblyReference.cache
+C:\Users\user\Documents\NCKU\是窗程式\c#\A small RPG\A small RPG\obj\Debug\A_small_RPG.Form1.resources
+C:\Users\user\Documents\NCKU\是窗程式\c#\A small RPG\A small RPG\obj\Debug\A_small_RPG.Properties.Resources.resources
+C:\Users\user\Documents\NCKU\是窗程式\c#\A small RPG\A small RPG\obj\Debug\A small RPG.csproj.GenerateResource.cache
+C:\Users\user\Documents\NCKU\是窗程式\c#\A small RPG\A small RPG\obj\Debug\A small RPG.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\NCKU\是窗程式\c#\A small RPG\A small RPG\obj\Debug\A small RPG.exe
+C:\Users\user\Documents\NCKU\是窗程式\c#\A small RPG\A small RPG\obj\Debug\A small RPG.pdb

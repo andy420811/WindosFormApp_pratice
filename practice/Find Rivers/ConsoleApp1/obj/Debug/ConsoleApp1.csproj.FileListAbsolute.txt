@@ -1,0 +1,21 @@
+D:\user\Documents\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\user\Documents\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\user\Documents\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\user\Documents\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\user\Documents\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\user\Documents\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\user\Documents\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\user\Documents\NCKU\是窗程式\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\NCKU\是窗程式\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\NCKU\是窗程式\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\user\Documents\NCKU\是窗程式\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\user\Documents\NCKU\是窗程式\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\user\Documents\NCKU\是窗程式\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\user\Documents\NCKU\是窗程式\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\user\Documents\NCKU\是窗程式\c#\Find Rivers\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\user\Documents\NCKU\是窗程式\c#\Find Rivers\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\user\Documents\NCKU\是窗程式\c#\Find Rivers\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\user\Documents\NCKU\是窗程式\c#\Find Rivers\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\NCKU\是窗程式\c#\Find Rivers\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\NCKU\是窗程式\c#\Find Rivers\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\user\Documents\NCKU\是窗程式\c#\Find Rivers\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
