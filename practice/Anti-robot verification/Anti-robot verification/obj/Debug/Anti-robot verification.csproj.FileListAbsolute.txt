@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\bin\Debug\Anti-robot verification.exe.config
+C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\bin\Debug\Anti-robot verification.exe
+C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\bin\Debug\Anti-robot verification.pdb
+C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\obj\Debug\Anti_robot_verification.Form1.resources
+C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\obj\Debug\Anti_robot_verification.Properties.Resources.resources
+C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.exe
+C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.pdb

@@ -28,3 +28,13 @@ D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070412_07\10
 D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070412_07\1070412_true_doc\ch13\BinaryCopy\obj\Debug\BinaryCopy.Form1.resources
 D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070412_07\1070412_true_doc\ch13\BinaryCopy\obj\Debug\BinaryCopy.Properties.Resources.resources
 D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070412_07\1070412_true_doc\ch13\BinaryCopy\obj\Debug\BinaryCopy.csproj.GenerateResource.Cache
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch13\BinaryCopy\bin\Debug\BinaryCopy.exe.config
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch13\BinaryCopy\bin\Debug\BinaryCopy.exe
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch13\BinaryCopy\bin\Debug\BinaryCopy.pdb
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch13\BinaryCopy\obj\Debug\BinaryCopy.csprojAssemblyReference.cache
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch13\BinaryCopy\obj\Debug\BinaryCopy.Form1.resources
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch13\BinaryCopy\obj\Debug\BinaryCopy.Properties.Resources.resources
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch13\BinaryCopy\obj\Debug\BinaryCopy.csproj.GenerateResource.cache
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch13\BinaryCopy\obj\Debug\BinaryCopy.csproj.CoreCompileInputs.cache
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch13\BinaryCopy\obj\Debug\BinaryCopy.exe
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch13\BinaryCopy\obj\Debug\BinaryCopy.pdb
