@@ -41,3 +41,14 @@ D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picB
 D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\obj\Debug\picBrowse.Picture.resources
 D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\obj\Debug\picBrowse.Properties.Resources.resources
 D:\ncku_school\開課課程\108第一學期\1081029_08\1081029_08_true\ch11\picBrowse\obj\Debug\picBrowse.csproj.GenerateResource.Cache
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch11\picBrowse\bin\Debug\picBrowse.exe.config
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch11\picBrowse\bin\Debug\picBrowse.exe
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch11\picBrowse\bin\Debug\picBrowse.pdb
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch11\picBrowse\obj\Debug\picBrowse.csprojAssemblyReference.cache
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch11\picBrowse\obj\Debug\picBrowse.Form1.resources
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch11\picBrowse\obj\Debug\picBrowse.Picture.resources
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch11\picBrowse\obj\Debug\picBrowse.Properties.Resources.resources
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch11\picBrowse\obj\Debug\picBrowse.csproj.GenerateResource.cache
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch11\picBrowse\obj\Debug\picBrowse.csproj.CoreCompileInputs.cache
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch11\picBrowse\obj\Debug\picBrowse.exe
+D:\user\Documents\c#\WindosFormApp_pratice\example\ch11\picBrowse\obj\Debug\picBrowse.pdb

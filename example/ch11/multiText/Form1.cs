@@ -31,6 +31,7 @@ namespace multiText
             btnAdd.Enabled = true;          // 設新增文件鈕可以使用
             btnPassword.Enabled = false;    // 設登入鈕不可以使用
         }
+        Button<List> button = new <List>Button;
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
