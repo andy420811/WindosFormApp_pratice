@@ -8,3 +8,13 @@ C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\obj\Deb
 C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.exe
 C:\Users\HP\source\repos\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.pdb
+D:\user\文件\NCKU\視窗程式\practice\Anti-robot verification\Anti-robot verification\bin\Debug\Anti-robot verification.exe.config
+D:\user\文件\NCKU\視窗程式\practice\Anti-robot verification\Anti-robot verification\bin\Debug\Anti-robot verification.exe
+D:\user\文件\NCKU\視窗程式\practice\Anti-robot verification\Anti-robot verification\bin\Debug\Anti-robot verification.pdb
+D:\user\文件\NCKU\視窗程式\practice\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.csprojAssemblyReference.cache
+D:\user\文件\NCKU\視窗程式\practice\Anti-robot verification\Anti-robot verification\obj\Debug\Anti_robot_verification.Form1.resources
+D:\user\文件\NCKU\視窗程式\practice\Anti-robot verification\Anti-robot verification\obj\Debug\Anti_robot_verification.Properties.Resources.resources
+D:\user\文件\NCKU\視窗程式\practice\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.csproj.GenerateResource.cache
+D:\user\文件\NCKU\視窗程式\practice\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.csproj.CoreCompileInputs.cache
+D:\user\文件\NCKU\視窗程式\practice\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.exe
+D:\user\文件\NCKU\視窗程式\practice\Anti-robot verification\Anti-robot verification\obj\Debug\Anti-robot verification.pdb

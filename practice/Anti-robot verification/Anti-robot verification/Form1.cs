@@ -15,7 +15,7 @@ namespace Anti_robot_verification
         int time = 0;
         int[] Locat_fin = new int [8];
         Point init_pos = new Point();
-        int BTN_act;
+        int BTN_act = 1;
         int[] pos_now = { 0, 0, 1, 0, 2, 0, 3, 0 };
         int shift;
         public Form1()
@@ -76,9 +76,9 @@ namespace Anti_robot_verification
         }
         public void Check_fin()
         {
-            if(Locat_fin == pos_now)
+            if(Locat_fin.SequenceEqual(pos_now))
             {
-                MessageBox.Show("Done! Used" + time + "Second");
+                MessageBox.Show("Done! Used " + time + " Second");
                 timer1.Stop();
             }
         }

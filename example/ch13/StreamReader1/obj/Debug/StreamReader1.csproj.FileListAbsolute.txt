@@ -34,3 +34,13 @@ D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070412_07\10
 D:\ncku_school\開課課程\107上學期\正式上課內容\1071023_07\1071023_true\ch13\StreamReader1\bin\Debug\StreamReader1.exe.config
 D:\ncku_school\開課課程\107上學期\正式上課內容\1071023_07\1071023_true\ch13\StreamReader1\obj\Debug\StreamReader1.exe
 D:\ncku_school\開課課程\107上學期\正式上課內容\1071023_07\1071023_true\ch13\StreamReader1\obj\Debug\StreamReader1.pdb
+D:\user\文件\NCKU\視窗程式\example\ch13\StreamReader1\bin\Debug\StreamReader1.exe.config
+D:\user\文件\NCKU\視窗程式\example\ch13\StreamReader1\bin\Debug\StreamReader1.exe
+D:\user\文件\NCKU\視窗程式\example\ch13\StreamReader1\bin\Debug\StreamReader1.pdb
+D:\user\文件\NCKU\視窗程式\example\ch13\StreamReader1\obj\Debug\StreamReader1.csprojAssemblyReference.cache
+D:\user\文件\NCKU\視窗程式\example\ch13\StreamReader1\obj\Debug\StreamReader1.Form1.resources
+D:\user\文件\NCKU\視窗程式\example\ch13\StreamReader1\obj\Debug\StreamReader1.Properties.Resources.resources
+D:\user\文件\NCKU\視窗程式\example\ch13\StreamReader1\obj\Debug\StreamReader1.csproj.GenerateResource.cache
+D:\user\文件\NCKU\視窗程式\example\ch13\StreamReader1\obj\Debug\StreamReader1.csproj.CoreCompileInputs.cache
+D:\user\文件\NCKU\視窗程式\example\ch13\StreamReader1\obj\Debug\StreamReader1.exe
+D:\user\文件\NCKU\視窗程式\example\ch13\StreamReader1\obj\Debug\StreamReader1.pdb

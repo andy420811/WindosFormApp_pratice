@@ -28,3 +28,13 @@ D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070412_07\10
 D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070412_07\1070412_true_doc\ch13\WavPlayer\obj\Debug\WavPlayer.Form1.resources
 D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070412_07\1070412_true_doc\ch13\WavPlayer\obj\Debug\WavPlayer.Properties.Resources.resources
 D:\ncku_school\開課課程\106下學期\106_02_正式上課簡報\1070412_07\1070412_true_doc\ch13\WavPlayer\obj\Debug\WavPlayer.csproj.GenerateResource.Cache
+D:\user\文件\NCKU\視窗程式\example\ch13\WavPlayer\bin\Debug\WavPlayer.exe.config
+D:\user\文件\NCKU\視窗程式\example\ch13\WavPlayer\bin\Debug\WavPlayer.exe
+D:\user\文件\NCKU\視窗程式\example\ch13\WavPlayer\bin\Debug\WavPlayer.pdb
+D:\user\文件\NCKU\視窗程式\example\ch13\WavPlayer\obj\Debug\WavPlayer.csprojAssemblyReference.cache
+D:\user\文件\NCKU\視窗程式\example\ch13\WavPlayer\obj\Debug\WavPlayer.Form1.resources
+D:\user\文件\NCKU\視窗程式\example\ch13\WavPlayer\obj\Debug\WavPlayer.Properties.Resources.resources
+D:\user\文件\NCKU\視窗程式\example\ch13\WavPlayer\obj\Debug\WavPlayer.csproj.GenerateResource.cache
+D:\user\文件\NCKU\視窗程式\example\ch13\WavPlayer\obj\Debug\WavPlayer.csproj.CoreCompileInputs.cache
+D:\user\文件\NCKU\視窗程式\example\ch13\WavPlayer\obj\Debug\WavPlayer.exe
+D:\user\文件\NCKU\視窗程式\example\ch13\WavPlayer\obj\Debug\WavPlayer.pdb
